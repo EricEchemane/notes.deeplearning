@@ -21,3 +21,10 @@ Here, he teaches how to use python and keras from tensorflow for building this n
 - tanh = x => (-1 to 1)
 - relu = x => max(0,x)
 - leaky_relu = x => max(0.1x,x)
+
+## Loss functions
+- sparse_categorical_crossentropy
+- binary_crossentropy
+- categorical_crossentropy
+- mean_absolute_error
+- mean_squared_error
